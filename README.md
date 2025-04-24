@@ -1,1 +1,6 @@
-# BudgetPlanner
+food=int(input("Enter the budget for food"))
+print("Food Budget = ",food)
+clothes=int(input("Enter the budget for clothes"))
+print("clothes Budget = ",clothes)
+shoes=int(input("Enter the budget for shoes"))
+print("Clothes Budget = ",shoes)
